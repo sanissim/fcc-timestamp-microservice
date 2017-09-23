@@ -3,9 +3,9 @@
   "//2": "https://docs.npmjs.com/files/package.json",
   "//3": "updating this file will download and update your packages",
 
-  "name": "my-glitch-app",
+  "name": "Timestamp Microservice",
   "version": "0.0.1",
-  "description": "Timestamp Microservice",
+  "description": "A project for FreeCodeCamp.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
